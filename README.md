@@ -23,7 +23,7 @@
 - Using divided layout comparing charisteristic of two groups : churned customer and stayed customer.
 - Creating charts, graphs, and other visual representations of the data.
 
-## Data storytelling - [Youtube](https://youtu.be/RBPA0lM6Jq8?si=jRfSTM8hcoj4MgIi)
+## Data storytelling - [Presentation](https://youtu.be/RBPA0lM6Jq8?si=jRfSTM8hcoj4MgIi)
 - Creating slides on powerpoint to convey the insights.
 - Provide specific recommendations for each solutions.
 
