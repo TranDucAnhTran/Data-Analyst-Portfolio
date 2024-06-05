@@ -78,6 +78,13 @@ Summarizing the results, the significant findings include:
 - Additional materials and articles referenced during the project.
 
 ---
+## Presentation
+
+You can watch my presentation on customer churn analysis using Power BI on YouTube. In this video, I provide a detailed guide on how to use Power BI to analyze data and derive important insights.
+
+**Title:** Power BI | Phân tích Tỷ lệ khách hàng rời bỏ (Học viên Đức Anh)  
+**Link:** [YouTube Video](https://www.youtube.com/watch?v=RBPA0lM6Jq8&t=655s)
+
 
 Thank you for checking out my Telco Customer Churn Project. For more details or collaboration opportunities, feel free to reach out!
 
