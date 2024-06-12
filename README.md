@@ -10,7 +10,7 @@ Key results achieved include:
 - 📉 Implementation of new strategies led to a projected reduction in churn rate by 10%.
 
 ## 📂 Dataset
-The dataset used in this project is obtained from [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download). It includes:
+The dataset used in this project is obtained from [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113). It includes:
 
 - **📊 Churn:** Indicates customers who left within the last month.
 - **🔧 Services:** Details on services each customer has signed up for, such as phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
@@ -74,7 +74,7 @@ Summarizing the results, the significant findings include:
 - Implementation of new strategies led to a projected reduction in churn rate by 10%, demonstrating the potential impact of data-driven decision-making.
 
 ## 📚 References
-- Kaggle - Telco Customer Churn Dataset: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset?resource=download)
+- Kaggle - Telco Customer Churn Dataset: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113)
 - Additional materials and articles referenced during the project.
 
 ---
